@@ -9,28 +9,30 @@ This project was developed collaboratively using Agile/Scrum methodologies. As p
 ![Home Page UI](assets/screenshots/Home.png)
 > 🎬 *Main Spotlight Page Displaying Upcoming Productions*
 
----
-
 ## 📚 Table of Contents
 
-- [🎨 Bootstrap Customization](#-bootstrap-customization)
-- [🧰 Chrome Dev Tools & Debugging](#-chrome-dev-tools--debugging)
-- [🧾 CRUD Functionality](#-crud-functionality)
-- [💻 HTML / CSS Styling](#-html--css-styling)
-- [📜 JavaScript Features](#-javascript-features)
-- [🔀 Git & Version Control](#-git--version-control)
-- [🚀 Azure DevOps & Agile Process](#-azure-devops--agile-process)
-- [🗃️ SQL Server & Database Integration](#️-sql-server--database-integration)
-- [📌 Final Thoughts](#-final-thoughts)
+- [🎨 Bootstrap Customization](#bootstrap-customization)
+- [🧰 Chrome Dev Tools & Debugging](#chrome-dev-tools--debugging)
+- [🧾 CRUD Functionality](#crud-functionality)
+- [💻 HTML / CSS Styling](#html--css-styling)
+- [📜 JavaScript Features](#javascript-features)
+- [🔀 Git & Version Control](#git--version-control)
+- [🚀 Azure DevOps & Agile Process](#azure-devops--agile-process)
+- [🗃️ SQL Server & Database Integration](#sql-server--database-integration)
+- [🗑️ BlogAuthor Delete Example](#blogauthor-delete-example)
+- [🧠 Controllers & Forms](#controllers--forms)
+- [📌 Final Thoughts](#final-thoughts)
 
----
+
 
 ## 🎨 Bootstrap Customization
 
-The layout was designed using **Bootstrap** with a customized theme:
-- Custom color palette defined in `:root` for consistency.
-- Card layouts used for BlogAuthors with responsive elements.
-- Navigation bar includes dropdowns and branding.
+The application uses **Bootstrap** to provide a responsive and polished front-end experience:
+
+- Customized color palette defined using CSS variables in `:root`.
+- Unified layout and spacing system with consistent padding, margins, and borders.
+- Responsive grid for Blog Author cards and Spotlight images.
+- Navbar dropdowns styled to align with theatre branding.
 
 ![Blog Authors Layout](assets/screenshots/BlogAuthors.png)
 > 🖼️ *Responsive Blog Author Cards With Custom Buttons and Styling*
@@ -39,20 +41,21 @@ The layout was designed using **Bootstrap** with a customized theme:
 
 ## 🧰 Chrome Dev Tools & Debugging
 
-Used extensively for:
-- Real-time style edits.
-- DOM inspection.
-- Network request debugging for form actions and AJAX calls.
-- JavaScript console debugging for dynamic tab toggles.
+Chrome DevTools were an essential part of the development workflow:
+
+- **Live CSS tweaking** to preview and debug layout changes.
+- **Network tab** to inspect CRUD requests and responses.
+- **JavaScript console** for tracing event listeners and DOM state.
+- **Mobile simulation** to verify responsiveness and media query breakpoints.
 
 ---
 
 ## 🧾 CRUD Functionality
 
-Implemented via Entity Framework using Code-First Migrations. Each model supports full CRUD:
+All primary data models support full Create, Read, Update, and Delete functionality using **Entity Framework Code First**:
 
-- **BlogAuthor**: Name, Bio, Joined/Left
-- **BlogPost**: Title, Description, BlogPhoto, Published, BlogAuthor link
+- **BlogAuthor**: Contains Name, Bio, Joined/Left dates.
+- **BlogPost**: Contains Title, Description, BlogPhoto URL, Published Date, and Author linkage.
 
 ### ✏️ Example: BlogPost Model
 
@@ -60,7 +63,7 @@ Implemented via Entity Framework using Code-First Migrations. Each model support
 public class BlogPost {
     [Key]
     public int BlogPostId { get; set; }
-    
+
     [Required]
     public string Title { get; set; }
 
@@ -72,4 +75,3 @@ public class BlogPost {
     [ForeignKey("BlogAuthorId")]
     public virtual BlogAuthor BlogAuthor { get; set; }
 }
-
