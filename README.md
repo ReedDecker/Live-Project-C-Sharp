@@ -1,4 +1,4 @@
-# 🎭 TheatreCMS3 – ASP.NET MVC Theatre Management App
+# 🎭 TheatreCMS3-ASP.NET MVC Theatre Management App
 
 > Built as part of a real-world apprenticeship through **Prosper IT Consulting** via *The Tech Academy*, TheatreCMS3 is a dynamic ASP.NET MVC web application created to manage blog content for a fictional theatre group: **Theatre Vertigo**. This project follows Agile methodology with full CRUD support, SQL integration, responsive UI, and modern developer tools.
 
