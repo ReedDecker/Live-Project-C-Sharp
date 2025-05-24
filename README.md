@@ -48,11 +48,17 @@ I'm proud of the work the team and I accompolished over the 2-week Sprint provid
 
 🖥️ Highlights of the UI:
 
-### Blog Authors Index View  
-![Blog Authors List](assets/screenshots/BlogAuthors.png)
+### Home Page  
+![Home Page Spotlight](assets/screenshots/Home.png)
+
+### Create Blog Author Form (Code)  
+![Create BlogAuthor Form](assets/screenshots/Create.png)
 
 ### Create Blog Author Form  
-![Create BlogAuthor Form](assets/screenshots/Create.png)
+![Create BlogAuthor Form](assets/screenshots/Create2.png)
+
+### Blog Authors Index View  
+![Blog Authors List](assets/screenshots/BlogAuthors.png)
 
 ### Blog Post Details View  
 ![Blog Post Detail Tabs](assets/screenshots/BlogPostDetails.png)
@@ -60,8 +66,6 @@ I'm proud of the work the team and I accompolished over the 2-week Sprint provid
 ### BlogAuthor Delete Confirmation  
 ![BlogAuthor Delete Confirmation](assets/screenshots/Haruki_Murakami_Delete.png)
 
-### Home Page  
-![Home Page Spotlight](assets/screenshots/Home.png)
 
 ---
 
