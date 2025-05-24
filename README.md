@@ -1,7 +1,7 @@
 # 🎭 TheatreCMS3
 # ASP.NET MVC Theatre Management App
 
-> Built as part of a real-world apprenticeship through **Prosper IT Consulting** via *The Tech Academy*, TheatreCMS3 is a dynamic ASP.NET MVC web application created to manage blog content for a fictional theatre group: **Theatre Vertigo**. This project follows Agile methodology with full CRUD support, SQL integration, responsive UI, and modern developer tools.
+> Built as part of a real-world apprenticeship through **Prosper IT Consulting** via *The Tech Academy*, TheatreCMS3 is a dynamic ASP.NET MVC web application created to manage blog content for a fictional theatre group: **Theatre Vertigo**. This project follows Agile/Scrum methodology with full CRUD support, SQL integration, responsive UI, and modern dev tools.
 
 ---
 
@@ -21,7 +21,11 @@
 
 ## Project Overview
 
-🚀 **TheatreCMS3** is a comprehensive theatre content management system built using **C#, ASP.NET MVC**, and **Entity Framework**. Designed for a fictional theatre group (**Theatre Vertigo**), this platform enables staff to manage blog authors and their associated posts through a tab-based UI that displays Author Details and Blog Posts.
+🚀 **TheatreCMS3** is a comprehensive theatre content management system built using **C#, ASP.NET MVC**, and **Entity Framework**... \
+My role in this project was to manage the platform for *Blog Authors* that enables staff to manage said authors and their associated posts through a tab-based UI that displays Author Detail Cards and Blog Posts. 
+I also worked on the UI/UX to create an enjoyable user interface and experience through clean navigation and user functionality.
+I'm proud of the work the team and I accompolished over the 2-week Sprint providing deliverables on schedule and to client satisfaction. 
+
 
 ---
 
