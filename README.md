@@ -20,7 +20,6 @@
 - [🗃️ SQL Server & Database Integration](#sql-server--database-integration)
 - [📌 Final Thoughts](#final-thoughts)
 
-
 ---
 
 ## 🚀 Project Overview
@@ -62,7 +61,8 @@ Example Models:
 
 ---
 
-### 🧑‍🎨 Blog Authors Card  
+## 🧑‍🎨 Blog Authors Card
+
 ![Blog Authors List](assets/screenshots/BlogAuthors.png)
 
 ---
@@ -126,6 +126,8 @@ Entity Framework with SQL Server used for backend:
 - 🧱 Code-First Migrations  
 - 🔍 SQL Server Explorer to inspect DB schema
 
+---
+
 ## 📌 Final Thoughts
 
 TheatreCMS3 showcases:
@@ -135,8 +137,3 @@ TheatreCMS3 showcases:
 🧩 Responsive UI and Bootstrap integration  
 🗃️ SQL Server with EF  
 💼 Real-world apprenticeship results
-
-> 🎯 *This project represents a hands-on, industry-relevant experience using professional tools and practices.*
-
-
-
