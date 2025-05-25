@@ -12,13 +12,15 @@
 - [🖥️ User Interface](#user-interface)
 - [🧠 BlogAuthor + BlogPost Models](#blogauthor--blogpost-models)
 - [🧑‍🎨 Blog Authors Card](#blog-authors-card)
-- [BlogAuthor Views](#blogauthor-views)
+- [🧾 BlogAuthor Views](#blogauthor-views)
 - [🗑️ BlogAuthor Delete Example](#blogauthor-delete-example)
 - [🧠 Controllers & Forms](#controllers--forms)
+- [🧠 BlogAuthor Controller Logic](#blogauthor-controller-logic)
 - [🔀 Git & Version Control](#git--version-control)
 - [🚀 Azure DevOps & Agile Process](#azure-devops--agile-process)
 - [🗃️ SQL Server & Database Integration](#sql-server--database-integration)
 - [📌 Final Thoughts](#final-thoughts)
+
 
 ---
 
