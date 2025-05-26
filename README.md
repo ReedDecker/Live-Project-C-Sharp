@@ -45,7 +45,7 @@ I'm proud of the work the team and I accomplished over the 2-week Sprint, provid
 
 ---
 
-## 🖥️ User Interface
+## User Interface 🖥️
 
 ### Home Page  
 ![Home Page Spotlight](assets/screenshots/Home.png)
