@@ -1,5 +1,5 @@
 # 🎭 TheatreCMS3  
-## ASP.NET MVC Theatre Management App 
+## ASP.NET MVC Theatre Management App
 
 > Built as part of a real-world apprenticeship through **Prosper IT Consulting** via *The Tech Academy*, TheatreCMS3 is a dynamic ASP.NET MVC web application created to manage blog content for a fictional theatre group: **Theatre Vertigo**. This project follows Agile/Scrum methodology with full CRUD support, SQL integration, responsive UI, and modern dev tools.
 
@@ -68,7 +68,7 @@ Example Models:
 
 ---
 
-## BlogAuthor Views
+## 🧾 BlogAuthor Views
 
 CRUD Views:  
 ![BlogAuthors Views](assets/screenshots/CreateEditViews.png)
@@ -83,7 +83,7 @@ CRUD Views:
 
 ---
 
-## 🧠 Controllers & Forms
+## 🧠 Controllers and Forms
 
 MVC controllers handle logic and data flow:
 
@@ -93,12 +93,15 @@ MVC controllers handle logic and data flow:
 ### Create Blog Author Form (Code)  
 ![Create BlogAuthor Form](assets/screenshots/Create.png)
 
-### BlogAuthor Controller Logic  
+---
+
+## 🧠 BlogAuthor Controller Logic
+
 ![BlogAuthors Controller](assets/screenshots/Controllers.png)
 
 ---
 
-## 🔀 Git & Version Control
+## 🔀 Git and Version Control
 
 Version control handled using **Git** and hosted on **GitHub**:
 
@@ -109,7 +112,7 @@ Version control handled using **Git** and hosted on **GitHub**:
 
 ---
 
-## 🚀 Azure DevOps & Agile Process
+## 🚀 Azure DevOps and Agile Process
 
 Managed under a real Agile Scrum framework:
 
@@ -120,7 +123,7 @@ Managed under a real Agile Scrum framework:
 
 ---
 
-## 🗃️ SQL Server & Database Integration
+## 🗃️ SQL Server and Database Integration
 
 Entity Framework with SQL Server used for backend:
 
@@ -138,3 +141,5 @@ TheatreCMS3 showcases:
 🧩 Responsive UI and Bootstrap integration  
 🗃️ SQL Server with EF  
 💼 Real-world apprenticeship results
+
+> 🎯 *This project represents a hands-on, industry-relevant experience using professional tools and practices.*
