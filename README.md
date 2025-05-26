@@ -7,7 +7,7 @@
 
 ## 📑 Table of Contents
 
-- [🚀 Project Overview](#project-overview)
+- [ Project Overview](#project-overview)
 - [💡 Key Features](#key-features)
 - [🖥️ User Interface](#user-interface)
 - [🧠 BlogAuthor + BlogPost Models](#blogauthor--blogpost-models)
