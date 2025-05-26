@@ -11,7 +11,7 @@
 - [💡 Key Features](#key-features)
 - [🖥️ User Interface](#user-interface)
 - [🧠 BlogAuthor + BlogPost Models](#blogauthor--blogpost-models)
-- [🧑‍🎨 Blog Authors Card](#blog-authors-card)
+- [🧑‍🎨 BlogAuthor Card](#blog-author-card)
 - [🧾 BlogAuthor Views](#blogauthor-views)
 - [🗑️ BlogAuthor Delete Example](#blogauthor-delete-example)
 - [🧠 Controllers and Forms](#controllers-and-forms)
