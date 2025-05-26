@@ -21,7 +21,6 @@
 - [SQL Server and Database Integration](#sql-server-and-database-integration)
 - [Final Thoughts](#final-thoughts)
 
-
 ---
 
 ## 🚀 Project Overview
