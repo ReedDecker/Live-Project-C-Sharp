@@ -128,3 +128,4 @@ Entity Framework with SQL Server used for backend:
   ```bash
   Add-Migration InitialCreate
   Update-Database
+
