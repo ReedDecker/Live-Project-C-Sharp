@@ -7,19 +7,20 @@
 
 ## 📑 Table of Contents
 
-- [🚀 Project Overview](#project-overview)
-- [💡 Key Features](#key-features)
-- [🖥️ User Interface](#user-interface)
-- [🧠 BlogAuthor + BlogPost Models](#blogauthor--blogpost-models)
-- [🧑‍🎨 Blog Authors Card](#blog-authors-card)
-- [🧾 BlogAuthor Views](#blogauthor-views)
-- [🗑️ BlogAuthor Delete Example](#blogauthor-delete-example)
-- [🧠 Controllers and Forms](#controllers-and-forms)
-- [🧠 BlogAuthor Controller Logic](#blogauthor-controller-logic)
-- [🔀 Git and Version Control](#git-and-version-control)
-- [🚀 Azure DevOps and Agile Process](#azure-devops-and-agile-process)
-- [🗃️ SQL Server and Database Integration](#sql-server-and-database-integration)
-- [📌 Final Thoughts](#final-thoughts)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [User Interface](#user-interface)
+- [BlogAuthor + BlogPost Models](#blogauthor--blogpost-models)
+- [Blog Authors Card](#blog-authors-card)
+- [BlogAuthor Views](#blogauthor-views)
+- [BlogAuthor Delete Example](#blogauthor-delete-example)
+- [Controllers and Forms](#controllers-and-forms)
+- [BlogAuthor Controller Logic](#blogauthor-controller-logic)
+- [Git and Version Control](#git-and-version-control)
+- [Azure DevOps and Agile Process](#azure-devops-and-agile-process)
+- [SQL Server and Database Integration](#sql-server-and-database-integration)
+- [Final Thoughts](#final-thoughts)
+
 
 ---
 
