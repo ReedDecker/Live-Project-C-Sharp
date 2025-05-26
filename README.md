@@ -8,6 +8,7 @@
 ## 📑 Table of Contents
 
 * [Project Overview](#project-overview)
+* [Blog Authors Card](#blog-authors-card)
 * [Key Features](#key-features)
 * [User Interface](#user-interface)
 * [Git & Version Control](#git--version-control)
