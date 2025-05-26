@@ -17,15 +17,12 @@
 * [BlogAuthor Delete Example](#blogauthor-delete-example)
 * [Controllers and Forms](#controllers-and-forms)
 * [BlogAuthor Controller Logic](#blogauthor-controller-logic)
-* [Git and Version Control](#git-and-version-control)
-* [Azure DevOps and Agile Process](#azure-devops-and-agile-process)
-* [SQL Server and Database Integration](#sql-server-and-database-integration)
-* [Final Thoughts](#final-thoughts)
 
 ---
 
 ## Project Overview
 
+### Application
 🚀 **TheatreCMS3** is a comprehensive theatre content management system built using **C#, ASP.NET MVC**, and **Entity Framework**.  
 My role was to develop *Blog Authors* that enables staff to manage said authors and their associated posts through a tab-based UI that displays Author Detail Cards and Blog Posts.  
 I also worked on front-end UI/UX to create an enjoyable user-interface and experience through clean navigation and user-functionality.  
