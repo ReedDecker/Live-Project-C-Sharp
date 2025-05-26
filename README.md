@@ -8,14 +8,17 @@
 ## 📑 Table of Contents
 
 * [Project Overview](#project-overview)
-* [Blog Authors Card](#blog-authors-card)
 * [Key Features](#key-features)
 * [User Interface](#user-interface)
-* [Git & Version Control](#git--version-control)
-* [Azure DevOps & Agile Process](#azure-devops--agile-process)
-* [SQL Server & Database Integration](#sql-server--database-integration)
+* [BlogAuthor and BlogPost Models](#blogauthor-and-blogpost-models)
+* [Blog Authors Card](#blog-authors-card)
+* [BlogAuthor Views](#blogauthor-views)
 * [BlogAuthor Delete Example](#blogauthor-delete-example)
-* [Controllers & Forms](#controllers--forms)
+* [Controllers and Forms](#controllers-and-forms)
+* [BlogAuthor Controller Logic](#blogauthor-controller-logic)
+* [Git and Version Control](#git-and-version-control)
+* [Azure DevOps and Agile Process](#azure-devops-and-agile-process)
+* [SQL Server and Database Integration](#sql-server-and-database-integration)
 * [Final Thoughts](#final-thoughts)
 
 ---
@@ -30,8 +33,6 @@ I'm proud of the work the team and I accomplished over the 2-week Sprint, provid
 ---
 
 ## 💡 Key Features
-
-Core capabilities include:
 
 - ✅ Full CRUD for Blog Authors and Blog Posts  
 - 📆 DateTime picker support for `Joined` and `Left` values  
@@ -51,14 +52,15 @@ Core capabilities include:
 
 ---
 
-## 🧠 BlogAuthor + BlogPost Models
+## 🧠 BlogAuthor and BlogPost Models
 
 Example Models:  
 ![BlogAuthors Models](assets/screenshots/Models.png)
 
 ---
 
-### 🧑‍🎨 Blog Authors Card  
+## 🧑‍🎨 Blog Authors Card
+
 ![Blog Authors List](assets/screenshots/BlogAuthors.png)
 
 ---
@@ -78,9 +80,7 @@ CRUD Views:
 
 ---
 
-## 🧠 Controllers & Forms
-
-MVC controllers handle logic and data flow:
+## 🧠 Controllers and Forms
 
 ### Create Blog Author Form (UI)  
 ![Create BlogAuthor Form](assets/screenshots/Create2.png)
@@ -88,12 +88,15 @@ MVC controllers handle logic and data flow:
 ### Create Blog Author Form (Code)  
 ![Create BlogAuthor Form](assets/screenshots/Create.png)
 
-### BlogAuthor + BlogPost Controller  
+---
+
+## 🧠 BlogAuthor Controller Logic
+
 ![BlogAuthors Controller](assets/screenshots/Controllers.png)
 
 ---
 
-## 🔀 Git & Version Control
+## 🔀 Git and Version Control
 
 Version control handled using **Git** and hosted on **GitHub**:
 
@@ -104,7 +107,7 @@ Version control handled using **Git** and hosted on **GitHub**:
 
 ---
 
-## 🚀 Azure DevOps & Agile Process
+## 🚀 Azure DevOps and Agile Process
 
 Managed under a real Agile Scrum framework:
 
@@ -115,7 +118,7 @@ Managed under a real Agile Scrum framework:
 
 ---
 
-## 🗃️ SQL Server & Database Integration
+## 🗃️ SQL Server and Database Integration
 
 Entity Framework with SQL Server used for backend:
 
@@ -125,4 +128,3 @@ Entity Framework with SQL Server used for backend:
   ```bash
   Add-Migration InitialCreate
   Update-Database
-
