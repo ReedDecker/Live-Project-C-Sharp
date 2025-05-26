@@ -26,9 +26,9 @@
 ## Project Overview
 
 🚀 **TheatreCMS3** is a comprehensive theatre content management system built using **C#, ASP.NET MVC**, and **Entity Framework**.  
-My role in this project was to manage the platform for *Blog Authors* that enables staff to manage said authors and their associated posts through a tab-based UI that displays Author Detail Cards and Blog Posts.  
-I also worked on the UI/UX to create an enjoyable user interface and experience through clean navigation and user functionality.  
-I'm proud of the work the team and I accomplished over the 2-week Sprint, providing deliverables on schedule and to client satisfaction.
+My role was to develop *Blog Authors* that enables staff to manage said authors and their associated posts through a tab-based UI that displays Author Detail Cards and Blog Posts.  
+I also worked on front-end UI/UX to create an enjoyable user-interface and experience through clean navigation and user-functionality.  
+I'm proud of the work the team and I accomplished over the 2-week Sprint, providing deliverables on-schedule and to client satisfaction.
 
 ---
 
