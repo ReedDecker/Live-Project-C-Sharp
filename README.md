@@ -11,8 +11,7 @@
 * [Project Overview](#project-overview)
 * [Key Features](#key-features)
 * [User Interface](#user-interface)
-* [BlogAuthor and BlogPost Models](#blogauthor-and-blogpost-models)
-* [Blog Authors Card](#blog-authors-card)
+* [BlogAuthor Models](#blogauthor-models)
 * [BlogAuthor Views](#blogauthor-views)
 * [BlogAuthor Delete Example](#blogauthor-delete-example)
 * [Controllers and Forms](#controllers-and-forms)
@@ -53,7 +52,7 @@ Highlights of the UI:
 
 ---
 
-## BlogAuthor and BlogPost Models
+## BlogAuthor Models
 
 Example Models:  
 ![BlogAuthors Models](assets/screenshots/Models.png)
@@ -111,8 +110,6 @@ To increase velocity, accuracy, and reduce time spent on boilerplate logic and s
 - 🧠 **ChatGPT (aka the “Ninja”)**: Assisted in real-time problem-solving during debugging, migrations, view-model issues, and Markdown rendering challenges. Whenever I hit a wall, ChatGPT helped me break through with practical, immediate guidance.
 
 > These tools didn’t replace critical thinking—they **augmented** it. I used them as a force multiplier to become a more agile, resourceful, and modern developer, capable of solving complex problems faster and with greater confidence.
-
-💬 *In today’s dev landscape, knowing how to effectively integrate AI into your workflow is a skill—and I made it part of my toolkit.*
 
 ---
 
