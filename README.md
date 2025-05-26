@@ -7,15 +7,15 @@
 
 ## 📑 Table of Contents
 
-- [Project Overview](##project-overview)
-- [Key Features](#key-features)
-- [User Interface](#user-interface)
-- [Git & Version Control](#git--version-control)
-- [Azure DevOps & Agile Process](#azure-devops--agile-process)
-- [SQL Server & Database Integration](#sql-server--database-integration)
-- [BlogAuthor Delete Example](#blogauthor-delete-example)
-- [Controllers & Forms](#controllers--forms)
-- [Final Thoughts](#final-thoughts)
+* [Project Overview](#project-overview)
+* [Key Features](#key-features)
+* [User Interface](#user-interface)
+* [Git & Version Control](#git--version-control)
+* [Azure DevOps & Agile Process](#azure-devops--agile-process)
+* [SQL Server & Database Integration](#sql-server--database-integration)
+* [BlogAuthor Delete Example](#blogauthor-delete-example)
+* [Controllers & Forms](#controllers--forms)
+* [Final Thoughts](#final-thoughts)
 
 ---
 
