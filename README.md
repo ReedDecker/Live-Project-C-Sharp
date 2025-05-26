@@ -97,6 +97,25 @@ Details/Delete Confirmation
 
 ---
 
+## Development Tools & AI Integration
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/AI-GitHub%20Copilot-4B8BBE?logo=github&logoColor=white)
+![ChatGPT Ninja](https://img.shields.io/badge/AI-ChatGPT%20Ninja-10A37F?logo=openai&logoColor=white)
+
+The TheatreCMS3 project was developed in **Visual Studio** using a structured MVC architecture powered by **ASP.NET**, **Entity Framework**, and SQL Server integration.
+
+To increase velocity, accuracy, and reduce time spent on boilerplate logic and syntax troubleshooting, I utilized **AI-assisted development tools**, including:
+
+- 🤖 **GitHub Copilot**: Autocompleted controller methods, view logic, and model properties with context-aware suggestions. This greatly accelerated repetitive coding tasks while helping me stay focused on logic and structure.
+
+- 🧠 **ChatGPT (aka the “Ninja”)**: Assisted in real-time problem-solving during debugging, migrations, view-model issues, and Markdown rendering challenges. Whenever I hit a wall, ChatGPT helped me break through with practical, immediate guidance.
+
+> These tools didn’t replace critical thinking—they **augmented** it. I used them as a force multiplier to become a more agile, resourceful, and modern developer, capable of solving complex problems faster and with greater confidence.
+
+💬 *In today’s dev landscape, knowing how to effectively integrate AI into your workflow is a skill—and I made it part of my toolkit.*
+
+---
+
 ## Git and Version Control
 
 Version control handled using **Git** and hosted on **GitHub**:
